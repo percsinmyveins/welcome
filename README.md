@@ -1,1 +1,2 @@
-# welcome.py
+# @percsinmyveins - discord
+# @feedmecomp - yt
